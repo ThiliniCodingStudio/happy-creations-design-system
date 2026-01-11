@@ -1,4 +1,4 @@
-# Happy Creations Design System (HCDS) 🎨
+# Happy Creations Design System 
 
 A strictly typed, accessible **Atomic Design System** developed for *Happy Creations* to standardize UI patterns across web and VR dashboards.
 
